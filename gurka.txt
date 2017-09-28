@@ -1,1 +1,2 @@
 en vanlig textfil som ska manglas 
+en rad till 
